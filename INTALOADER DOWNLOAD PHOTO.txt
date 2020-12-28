@@ -1,16 +1,19 @@
+command to download ad full photo on instagram
+
 instaloader --no-videos   --no-metadata-json  --no-compress-json --no-captions   profile himynameisernie
 
 
-using login
+
+#using login session on instaloader
 
 instaloader 
 
-	-l imma_48 
-	-p FILIH123 
+	-l put youe username 
+	-p password
 --no-videos   
 --no-metadata-json  
 --no-compress-json 
 --no-captions 
 --highlights  
 
-profile maidaelkhum
+profile nsmr the account that you want download
