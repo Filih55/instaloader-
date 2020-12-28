@@ -1,0 +1,16 @@
+instaloader --no-videos   --no-metadata-json  --no-compress-json --no-captions   profile himynameisernie
+
+
+using login
+
+instaloader 
+
+	-l imma_48 
+	-p FILIH123 
+--no-videos   
+--no-metadata-json  
+--no-compress-json 
+--no-captions 
+--highlights  
+
+profile maidaelkhum
